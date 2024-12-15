@@ -4,5 +4,11 @@
     "name": "ombhearts",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "88800219-fc5e-348d-87c3-f558cb670b93",
+    "name": "OmbHearts",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
