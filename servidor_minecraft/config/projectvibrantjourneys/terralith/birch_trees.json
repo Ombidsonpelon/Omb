@@ -1,5 +1,33 @@
 [
   {
+    "biomeName": "terralith:yellowstone",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:lavender_forest",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:orchid_swamp",
+    "chance": 10
+  },
+  {
+    "biomeName": "terralith:skylands_autumn",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:sakura_grove",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:haze_mountain",
+    "chance": 5
+  },
+  {
+    "biomeName": "terralith:skylands_spring",
+    "chance": 3
+  },
+  {
     "biomeName": "terralith:shield",
     "chance": 3
   },
@@ -34,33 +62,5 @@
   {
     "biomeName": "terralith:lavender_valley",
     "chance": 10
-  },
-  {
-    "biomeName": "terralith:yellowstone",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:lavender_forest",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:orchid_swamp",
-    "chance": 10
-  },
-  {
-    "biomeName": "terralith:skylands_autumn",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:sakura_grove",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:haze_mountain",
-    "chance": 5
-  },
-  {
-    "biomeName": "terralith:skylands_spring",
-    "chance": 3
   }
 ]

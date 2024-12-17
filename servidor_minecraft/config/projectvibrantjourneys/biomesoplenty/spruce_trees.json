@@ -1,17 +1,5 @@
 [
   {
-    "biomeName": "biomesoplenty:forested_field",
-    "chance": 10
-  },
-  {
-    "biomeName": "biomesoplenty:old_growth_dead_forest",
-    "chance": 2
-  },
-  {
-    "biomeName": "biomesoplenty:wetland",
-    "chance": 5
-  },
-  {
     "biomeName": "biomesoplenty:jade_cliffs",
     "chance": 5
   },
@@ -22,5 +10,17 @@
   {
     "biomeName": "biomesoplenty:dead_forest",
     "chance": 2
+  },
+  {
+    "biomeName": "biomesoplenty:forested_field",
+    "chance": 10
+  },
+  {
+    "biomeName": "biomesoplenty:old_growth_dead_forest",
+    "chance": 2
+  },
+  {
+    "biomeName": "biomesoplenty:wetland",
+    "chance": 5
   }
 ]

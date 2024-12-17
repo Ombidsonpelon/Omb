@@ -1,5 +1,21 @@
 [
   {
+    "biomeName": "byg:dacite_ridges",
+    "chance": 10
+  },
+  {
+    "biomeName": "byg:borealis_grove",
+    "chance": 10
+  },
+  {
+    "biomeName": "byg:canadian_shield",
+    "chance": 15
+  },
+  {
+    "biomeName": "byg:maple_taiga",
+    "chance": 5
+  },
+  {
     "biomeName": "byg:autumnal_taiga",
     "chance": 20
   },
@@ -17,22 +33,6 @@
   },
   {
     "biomeName": "byg:rose_fields",
-    "chance": 5
-  },
-  {
-    "biomeName": "byg:dacite_ridges",
-    "chance": 10
-  },
-  {
-    "biomeName": "byg:borealis_grove",
-    "chance": 10
-  },
-  {
-    "biomeName": "byg:canadian_shield",
-    "chance": 15
-  },
-  {
-    "biomeName": "byg:maple_taiga",
     "chance": 5
   }
 ]
