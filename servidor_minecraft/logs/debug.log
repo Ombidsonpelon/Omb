@@ -5915,3 +5915,687 @@ java.lang.NullPointerException: null
 [17Dec2024 07:13:11.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of krinpa) moved wrongly! 0.5945201256704422
 [17Dec2024 07:13:11.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of krinpa) moved wrongly! 0.7705399698365909
 [17Dec2024 07:13:11.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of krinpa) moved wrongly! 0.9289578253894888
+[17Dec2024 07:16:17.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Two apocalypse
+[17Dec2024 07:16:17.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Two apocalypse
+[17Dec2024 07:21:17.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Two apocalypse
+[17Dec2024 07:21:17.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Two apocalypse
+[17Dec2024 07:23:15.377] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -79,113: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:15.378] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:15.378] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:23:15.378] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:23:15.378] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:23:15.378] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:23:18.365] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -77,115: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:18.366] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:18.366] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:23:18.366] [Worker-Main-2/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:23:18.366] [Worker-Main-2/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:23:18.366] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:23:22.618] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -72,117: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:22.619] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:22.619] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:23:22.619] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:23:22.619] [Worker-Main-3/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:23:22.619] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:23:33.773] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -65,122: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:33.774] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:33.774] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:23:33.774] [Worker-Main-3/INFO] [lostcities/]:     Building: building7
+[17Dec2024 07:23:33.774] [Worker-Main-3/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:23:33.774] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:23:34.012] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -68,122: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:34.013] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:34.013] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:23:34.013] [Worker-Main-3/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:23:34.013] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:23:34.013] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:23:34.507] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -77,122: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:34.508] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:34.508] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:23:34.508] [Worker-Main-2/INFO] [lostcities/]:     Building: building3
+[17Dec2024 07:23:34.508] [Worker-Main-2/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:23:34.508] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 3
+[17Dec2024 07:23:53.648] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -80,121: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:53.649] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:53.649] [Worker-Main-2/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:23:53.649] [Worker-Main-2/INFO] [lostcities/]:     Building: building7
+[17Dec2024 07:23:53.649] [Worker-Main-2/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:23:53.650] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 4
+[17Dec2024 07:23:56.866] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -81,122: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:56.867] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:56.867] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:23:56.867] [Worker-Main-1/INFO] [lostcities/]:     Building: building7
+[17Dec2024 07:23:56.867] [Worker-Main-1/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:23:56.867] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:23:57.429] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -82,114: null
+java.lang.NullPointerException: null
+[17Dec2024 07:23:57.430] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:23:57.430] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:23:57.430] [Worker-Main-3/INFO] [lostcities/]:     Building: building7
+[17Dec2024 07:23:57.430] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:23:57.430] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:00.488] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -83,114: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:00.491] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:00.492] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:00.492] [Worker-Main-2/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:00.492] [Worker-Main-2/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:00.493] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:00.764] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -83,116: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:00.765] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:00.765] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:00.765] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:00.765] [Worker-Main-3/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:00.766] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:03.700] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -76,123: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:03.700] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:03.700] [Worker-Main-1/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:03.701] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:03.701] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open00
+[17Dec2024 07:24:03.701] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:03.701] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:03.755] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -78,123: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:03.755] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:03.755] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:03.755] [Worker-Main-1/INFO] [lostcities/]:     Building: building4
+[17Dec2024 07:24:03.755] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:03.755] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:03.794] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -75,123: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:03.794] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:03.794] [Worker-Main-2/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:03.794] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:03.794] [Worker-Main-2/INFO] [lostcities/]:     Building: shopping_open10
+[17Dec2024 07:24:03.794] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:03.794] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:03.987] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -81,123: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:03.987] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:03.987] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:03.987] [Worker-Main-3/INFO] [lostcities/]:     Building: building4
+[17Dec2024 07:24:03.987] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:03.987] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:04.000] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -80,123: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:04.000] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:04.000] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:04.000] [Worker-Main-3/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:04.000] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:04.000] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:04.525] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -66,123: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:04.525] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:04.525] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:04.525] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:04.525] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open00
+[17Dec2024 07:24:04.526] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:04.526] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:04.542] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -65,123: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:04.543] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:04.543] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:04.543] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:04.543] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open10
+[17Dec2024 07:24:04.543] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:04.543] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:05.285] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -82,123: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:05.286] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:05.286] [Worker-Main-2/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:05.286] [Worker-Main-2/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:05.286] [Worker-Main-2/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:05.286] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:11.122] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -84,110: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:11.122] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:11.122] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:11.122] [Worker-Main-2/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:11.122] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:11.122] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:13.495] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -85,110: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:13.495] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:13.495] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:13.495] [Worker-Main-3/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:13.495] [Worker-Main-3/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:13.495] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:13.760] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -85,113: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:13.761] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:13.761] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:13.761] [Worker-Main-3/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:13.761] [Worker-Main-3/INFO] [lostcities/]:         Floors: 6
+[17Dec2024 07:24:13.761] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:13.891] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -85,115: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:13.891] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:13.892] [Worker-Main-3/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:13.892] [Worker-Main-3/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:13.892] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:13.892] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:13.901] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -85,114: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:13.901] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:13.901] [Worker-Main-2/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:13.902] [Worker-Main-2/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:13.902] [Worker-Main-2/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:13.902] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:16.889] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -86,116: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:16.890] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:16.890] [Worker-Main-2/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:16.890] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: shopping
+[17Dec2024 07:24:16.890] [Worker-Main-2/INFO] [lostcities/]:     Building: shopping11
+[17Dec2024 07:24:16.890] [Worker-Main-2/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:16.890] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:16.901] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -86,115: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:16.901] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:16.901] [Worker-Main-2/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:16.901] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: shopping
+[17Dec2024 07:24:16.901] [Worker-Main-2/INFO] [lostcities/]:     Building: shopping10
+[17Dec2024 07:24:16.901] [Worker-Main-2/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:16.902] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:16.919] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -86,117: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:16.919] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:16.919] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:16.919] [Worker-Main-3/INFO] [lostcities/]:     Building: building6
+[17Dec2024 07:24:16.920] [Worker-Main-3/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:16.920] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 6
+[17Dec2024 07:24:18.634] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -87,109: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:18.635] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:18.635] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:18.635] [Worker-Main-2/INFO] [lostcities/]:     Building: building7
+[17Dec2024 07:24:18.635] [Worker-Main-2/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:18.635] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:19.008] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -87,113: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:19.008] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:19.008] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:19.009] [Worker-Main-1/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:19.009] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:19.009] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 3
+[17Dec2024 07:24:19.239] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -87,115: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:19.239] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:19.239] [Worker-Main-1/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:19.239] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping
+[17Dec2024 07:24:19.239] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping00
+[17Dec2024 07:24:19.239] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:19.240] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:19.333] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -87,116: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:19.334] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:19.334] [Worker-Main-1/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:19.334] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping
+[17Dec2024 07:24:19.334] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping01
+[17Dec2024 07:24:19.334] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:19.334] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:19.604] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -87,120: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:19.605] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:19.605] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:19.605] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:19.605] [Worker-Main-3/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:19.605] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:20.125] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -88,114: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:20.125] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:20.125] [Worker-Main-2/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:20.125] [Worker-Main-2/INFO] [lostcities/]:     Building: building6
+[17Dec2024 07:24:20.125] [Worker-Main-2/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:20.125] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 4
+[17Dec2024 07:24:20.189] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -88,115: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:20.189] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:20.189] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:20.189] [Worker-Main-3/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:20.189] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:20.190] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 3
+[17Dec2024 07:24:20.589] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -88,112: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:20.590] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:20.590] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:20.590] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi2
+[17Dec2024 07:24:20.590] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:20.590] [Worker-Main-1/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:20.590] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:20.649] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -88,111: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:20.650] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:20.650] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:20.650] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi2
+[17Dec2024 07:24:20.650] [Worker-Main-3/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:20.650] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:20.650] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:21.716] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -88,120: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:21.717] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:21.717] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:21.717] [Worker-Main-3/INFO] [lostcities/]:     Building: building7
+[17Dec2024 07:24:21.717] [Worker-Main-3/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:24:21.717] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 4
+[17Dec2024 07:24:23.368] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -89,111: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:23.369] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:23.369] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:23.369] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi2
+[17Dec2024 07:24:23.369] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:23.370] [Worker-Main-1/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:23.370] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:23.441] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -89,112: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:23.442] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:23.442] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:23.442] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi2
+[17Dec2024 07:24:23.442] [Worker-Main-3/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:23.442] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:23.442] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:23.715] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -89,114: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:23.715] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:23.715] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:23.715] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:23.715] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:23.715] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 7
+[17Dec2024 07:24:24.166] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -89,117: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:24.168] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:24.168] [Worker-Main-1/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:24.168] [Worker-Main-1/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:24.168] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:24.168] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:24.191] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -89,116: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:24.192] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:24.192] [Worker-Main-1/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:24.192] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:24.192] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:24.192] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 7
+[17Dec2024 07:24:26.306] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -90,113: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:26.307] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:26.307] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:26.307] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:26.307] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:26.307] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 3
+[17Dec2024 07:24:26.428] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -90,115: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:26.428] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:26.428] [Worker-Main-1/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:26.428] [Worker-Main-1/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:26.429] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:26.429] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 4
+[17Dec2024 07:24:27.190] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -90,104: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:27.191] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:27.191] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:27.191] [Worker-Main-3/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:27.191] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:27.191] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:28.089] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -82,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:28.089] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:28.089] [Worker-Main-1/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:28.090] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi1
+[17Dec2024 07:24:28.090] [Worker-Main-1/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:28.090] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:28.090] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:28.126] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -81,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:28.126] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:28.126] [Worker-Main-1/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:28.126] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi1
+[17Dec2024 07:24:28.127] [Worker-Main-1/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:28.127] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:28.127] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:28.252] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -80,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:28.253] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:28.253] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:28.253] [Worker-Main-3/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:28.253] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:28.253] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:28.523] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -79,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:28.524] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:28.524] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:28.524] [Worker-Main-2/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:28.524] [Worker-Main-2/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:28.524] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:28.618] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -76,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:28.618] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:28.618] [Worker-Main-2/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:28.618] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:28.618] [Worker-Main-2/INFO] [lostcities/]:     Building: shopping_open01
+[17Dec2024 07:24:28.618] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:28.618] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:28.775] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -75,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:28.775] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:28.775] [Worker-Main-1/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:28.775] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:28.775] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open11
+[17Dec2024 07:24:28.776] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:28.776] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:29.328] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -66,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:29.328] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:29.328] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:29.328] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:29.328] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open01
+[17Dec2024 07:24:29.328] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:29.329] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:29.356] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -65,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:29.356] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:29.357] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:29.357] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:29.357] [Worker-Main-3/INFO] [lostcities/]:     Building: shopping_open11
+[17Dec2024 07:24:29.357] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:29.357] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:29.904] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -72,125: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:29.904] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:29.904] [Worker-Main-2/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:29.904] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi4
+[17Dec2024 07:24:29.904] [Worker-Main-2/INFO] [lostcities/]:     Building: building4
+[17Dec2024 07:24:29.905] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:29.905] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:30.033] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -71,125: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:30.034] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:30.034] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:30.034] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi4
+[17Dec2024 07:24:30.034] [Worker-Main-1/INFO] [lostcities/]:     Building: building4
+[17Dec2024 07:24:30.034] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:30.034] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:30.629] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -79,125: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:30.630] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:30.630] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:30.630] [Worker-Main-3/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:30.630] [Worker-Main-3/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:30.630] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:30.795] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -81,125: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:30.796] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:30.796] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:30.796] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi1
+[17Dec2024 07:24:30.796] [Worker-Main-3/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:30.796] [Worker-Main-3/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:30.796] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:30.881] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -82,125: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:30.881] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:30.881] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[17Dec2024 07:24:30.882] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi1
+[17Dec2024 07:24:30.882] [Worker-Main-3/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:30.882] [Worker-Main-3/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:30.882] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:32.181] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -71,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:32.182] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:32.182] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:32.182] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi4
+[17Dec2024 07:24:32.182] [Worker-Main-1/INFO] [lostcities/]:     Building: building4
+[17Dec2024 07:24:32.182] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:32.182] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:32.307] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -72,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:32.307] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:32.307] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:32.307] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi4
+[17Dec2024 07:24:32.307] [Worker-Main-3/INFO] [lostcities/]:     Building: building4
+[17Dec2024 07:24:32.307] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:32.307] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:32.387] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -73,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:32.387] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:32.387] [Worker-Main-2/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:32.387] [Worker-Main-2/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:32.387] [Worker-Main-2/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:32.387] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 3
+[17Dec2024 07:24:32.398] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -74,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:32.398] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:32.399] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:32.399] [Worker-Main-3/INFO] [lostcities/]:     Building: building6
+[17Dec2024 07:24:32.399] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:32.399] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:33.036] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -76,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:33.037] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:33.037] [Worker-Main-2/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:33.037] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi1
+[17Dec2024 07:24:33.037] [Worker-Main-2/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:33.037] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:33.037] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:33.046] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -77,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:33.046] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:33.046] [Worker-Main-2/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:33.046] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi1
+[17Dec2024 07:24:33.046] [Worker-Main-2/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:33.047] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:33.047] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:33.663] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -81,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:33.665] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:33.665] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:33.665] [Worker-Main-1/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:33.665] [Worker-Main-1/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:33.666] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 3
+[17Dec2024 07:24:33.679] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -82,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:33.680] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:33.680] [Worker-Main-2/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:33.680] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi5
+[17Dec2024 07:24:33.680] [Worker-Main-2/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:33.680] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:33.680] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:33.908] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -84,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:33.909] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:33.909] [Worker-Main-2/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:33.909] [Worker-Main-2/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:33.910] [Worker-Main-2/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:24:33.910] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 6
+[17Dec2024 07:24:33.924] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -83,126: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:33.924] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:33.925] [Worker-Main-3/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:33.925] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi5
+[17Dec2024 07:24:33.925] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:33.925] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:33.925] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:35.913] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -78,127: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:35.914] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:35.914] [Worker-Main-1/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:35.914] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:35.914] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:35.914] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 6
+[17Dec2024 07:24:36.173] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -76,127: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:36.174] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:36.174] [Worker-Main-3/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:36.174] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi1
+[17Dec2024 07:24:36.174] [Worker-Main-3/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:36.174] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:36.174] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:36.186] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -77,127: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:36.187] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:36.187] [Worker-Main-3/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:36.187] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi1
+[17Dec2024 07:24:36.187] [Worker-Main-3/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:36.187] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:36.187] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:36.496] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -82,127: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:36.496] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:36.496] [Worker-Main-1/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:36.496] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi5
+[17Dec2024 07:24:36.497] [Worker-Main-1/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:36.497] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:36.497] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:36.577] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -83,127: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:36.577] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:36.577] [Worker-Main-2/INFO] [lostcities/]:     Level: 2
+[17Dec2024 07:24:36.577] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi5
+[17Dec2024 07:24:36.577] [Worker-Main-2/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:36.578] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:36.578] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:36.589] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -84,127: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:36.589] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:36.589] [Worker-Main-2/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:36.589] [Worker-Main-2/INFO] [lostcities/]:     Building: building1
+[17Dec2024 07:24:36.589] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:36.589] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 3
+[17Dec2024 07:24:36.974] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -75,127: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:36.975] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:36.975] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:36.975] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:36.975] [Worker-Main-3/INFO] [lostcities/]:     Building: shopping_open00
+[17Dec2024 07:24:36.975] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:36.975] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:37.055] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -74,127: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:37.055] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:37.056] [Worker-Main-1/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:37.056] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:37.056] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open10
+[17Dec2024 07:24:37.056] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:37.056] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:45.285] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -63,124: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:45.286] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:45.286] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:45.286] [Worker-Main-3/INFO] [lostcities/]:     Building: building4
+[17Dec2024 07:24:45.286] [Worker-Main-3/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:45.286] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:47.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:47.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of OmbHearts) moved too quickly! 8.07186467418137,0.0,-56.207427640958485
+[17Dec2024 07:24:56.547] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -84,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:56.547] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:56.548] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:56.548] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi2
+[17Dec2024 07:24:56.548] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:56.548] [Worker-Main-1/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:24:56.548] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:56.559] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -83,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:56.559] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:56.559] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:56.559] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi2
+[17Dec2024 07:24:56.560] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:24:56.560] [Worker-Main-1/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:24:56.560] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:24:56.685] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -85,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:56.685] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:56.685] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:56.685] [Worker-Main-3/INFO] [lostcities/]:     Building: building7
+[17Dec2024 07:24:56.685] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:56.685] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 5
+[17Dec2024 07:24:56.794] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -81,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:56.794] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:56.795] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:24:56.795] [Worker-Main-3/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:56.795] [Worker-Main-3/INFO] [lostcities/]:         Floors: 5
+[17Dec2024 07:24:56.795] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
+[17Dec2024 07:24:57.038] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -79,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:57.038] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:57.038] [Worker-Main-2/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:57.038] [Worker-Main-2/INFO] [lostcities/]:     Building: building4
+[17Dec2024 07:24:57.038] [Worker-Main-2/INFO] [lostcities/]:         Floors: 6
+[17Dec2024 07:24:57.038] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 7
+[17Dec2024 07:24:57.522] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -75,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:57.524] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:57.524] [Worker-Main-3/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:57.524] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:57.524] [Worker-Main-3/INFO] [lostcities/]:     Building: shopping_open01
+[17Dec2024 07:24:57.524] [Worker-Main-3/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:57.524] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:57.539] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -74,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:57.540] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:57.540] [Worker-Main-2/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:57.540] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: shopping_open
+[17Dec2024 07:24:57.540] [Worker-Main-2/INFO] [lostcities/]:     Building: shopping_open11
+[17Dec2024 07:24:57.540] [Worker-Main-2/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:57.540] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[17Dec2024 07:24:57.657] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -73,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:57.657] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:57.657] [Worker-Main-2/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:57.658] [Worker-Main-2/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:57.658] [Worker-Main-2/INFO] [lostcities/]:         Floors: 3
+[17Dec2024 07:24:57.658] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 4
+[17Dec2024 07:24:57.673] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -72,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:57.673] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:57.673] [Worker-Main-1/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:24:57.673] [Worker-Main-1/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:24:57.674] [Worker-Main-1/INFO] [lostcities/]:         Floors: 4
+[17Dec2024 07:24:57.674] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 3
+[17Dec2024 07:24:58.368] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -70,128: null
+java.lang.NullPointerException: null
+[17Dec2024 07:24:58.368] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:24:58.368] [Worker-Main-2/INFO] [lostcities/]:     Level: 3
+[17Dec2024 07:24:58.368] [Worker-Main-2/INFO] [lostcities/]:     Building: building5
+[17Dec2024 07:24:58.369] [Worker-Main-2/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:24:58.369] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 6
+[17Dec2024 07:25:08.737] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -77,129: null
+java.lang.NullPointerException: null
+[17Dec2024 07:25:08.738] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:25:08.738] [Worker-Main-1/INFO] [lostcities/]:     Level: 4
+[17Dec2024 07:25:08.738] [Worker-Main-1/INFO] [lostcities/]:     Building: building8
+[17Dec2024 07:25:08.738] [Worker-Main-1/INFO] [lostcities/]:         Floors: 2
+[17Dec2024 07:25:08.738] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 4
+[17Dec2024 07:25:10.085] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -83,129: null
+java.lang.NullPointerException: null
+[17Dec2024 07:25:10.085] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:25:10.085] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:25:10.085] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi2
+[17Dec2024 07:25:10.085] [Worker-Main-3/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:25:10.086] [Worker-Main-3/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:25:10.086] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
+[17Dec2024 07:25:10.099] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -84,129: null
+java.lang.NullPointerException: null
+[17Dec2024 07:25:10.099] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[17Dec2024 07:25:10.099] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[17Dec2024 07:25:10.099] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi2
+[17Dec2024 07:25:10.099] [Worker-Main-3/INFO] [lostcities/]:     Building: building2
+[17Dec2024 07:25:10.099] [Worker-Main-3/INFO] [lostcities/]:         Floors: 1
+[17Dec2024 07:25:10.099] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 2
