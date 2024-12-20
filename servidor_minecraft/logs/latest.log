@@ -1562,3 +1562,35 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Dec2024 04:48:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts hit the ground too hard
 [20Dec2024 04:51:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts hit the ground too hard
 [20Dec2024 04:53:13.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts was slain by Zombie
+[20Dec2024 04:57:05.787] [Server thread/ERROR] [net.minecraft.commands.Commands/]: Command exception: /effect clear OmbHearts
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1619) ~[?:?]
+	at net.minecraft.world.entity.LivingEntity.m_21219_(LivingEntity.java:896) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.commands.EffectCommands.m_136959_(EffectCommands.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.commands.EffectCommands.m_136981_(EffectCommands.java:47) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_246958_(ServerGamePacketListenerImpl.java:1244) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_244885_(ServerGamePacketListenerImpl.java:1221) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20Dec2024 04:57:17.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmbHearts: Removed effect Weakness from OmbHearts]
+[20Dec2024 04:57:30.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmbHearts: Removed effect Infection from OmbHearts]
+[20Dec2024 04:57:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmbHearts: Removed effect Infection from OmbHearts]
+[20Dec2024 04:59:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts hit the ground too hard
+[20Dec2024 05:00:20.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts was slain by Zombie
+[20Dec2024 05:00:25.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmbHearts: Teleported OmbHearts to DacSeed]
+[20Dec2024 05:04:13.028] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
