@@ -5089,3 +5089,7 @@ java.util.ConcurrentModificationException: null
 [20Dec2024 05:20:49.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
 [20Dec2024 05:25:49.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
 [20Dec2024 05:25:49.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[20Dec2024 05:30:49.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[20Dec2024 05:30:49.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[20Dec2024 05:35:49.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[20Dec2024 05:35:49.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
