@@ -1249,6 +1249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 05:11:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_basin": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 04:31:53 +0000"
@@ -1873,6 +1879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 05:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-20 04:28:56 +0000"
@@ -2080,6 +2092,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-20 04:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 05:11:50 +0000"
     },
     "done": true
   },

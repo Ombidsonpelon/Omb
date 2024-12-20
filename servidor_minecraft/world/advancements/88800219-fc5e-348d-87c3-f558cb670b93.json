@@ -1616,6 +1616,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2024-12-20 03:57:23 +0000"
@@ -1625,6 +1631,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-20 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-20 05:15:29 +0000"
     },
     "done": true
   },
@@ -1652,6 +1664,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-20 03:57:23 +0000"
@@ -1667,6 +1685,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
       "has_redstone": "2024-12-20 04:07:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -1700,9 +1724,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_bath": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-20 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -1727,6 +1763,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-20 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -1769,6 +1811,18 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-20 04:00:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_basin": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -2000,6 +2054,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_birch_planks": "2024-12-20 04:03:01 +0000"
@@ -2102,6 +2168,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-20 04:02:30 +0000"
@@ -2111,6 +2189,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_redstone": "2024-12-20 04:07:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -2174,6 +2258,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_basin": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
       "has_redstone": "2024-12-20 04:07:32 +0000"
@@ -2195,6 +2285,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-20 04:02:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -2258,6 +2354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-20 04:02:30 +0000"
@@ -2267,6 +2369,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2024-12-20 04:01:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -2288,6 +2396,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_bath": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-12-20 04:53:21 +0000"
@@ -2297,6 +2411,12 @@
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2024-12-20 04:08:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -2312,9 +2432,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-20 04:27:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -2432,6 +2564,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-20 04:03:01 +0000"
@@ -2498,6 +2636,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-20 04:07:32 +0000"
@@ -2552,9 +2696,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 04:03:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -2585,6 +2741,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-20 04:01:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },
@@ -2693,6 +2855,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-20 04:07:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-20 05:08:20 +0000"
     },
     "done": true
   },

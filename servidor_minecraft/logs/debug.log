@@ -5081,3 +5081,7 @@ java.util.ConcurrentModificationException: null
 [20Dec2024 05:04:13.028] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
 [20Dec2024 05:05:49.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
 [20Dec2024 05:05:49.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[20Dec2024 05:10:49.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[20Dec2024 05:10:49.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[20Dec2024 05:15:49.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[20Dec2024 05:15:49.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
