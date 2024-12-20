@@ -521,6 +521,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:silverfish": "2024-12-20 04:38:34 +0000",
       "minecraft:zombie": "2024-12-18 03:03:10 +0000",
       "minecraft:drowned": "2024-12-20 04:23:44 +0000"
     },
@@ -1584,6 +1585,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-20 04:37:47 +0000",
       "bread": "2024-12-20 03:37:37 +0000",
       "cookie": "2024-12-20 04:21:37 +0000",
       "rotten_flesh": "2024-12-20 04:03:25 +0000"
@@ -1854,6 +1856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-12-20 04:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-20 04:14:36 +0000"
@@ -1875,6 +1883,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-20 03:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-20 04:53:21 +0000"
     },
     "done": true
   },
@@ -2016,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-20 04:54:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2024-12-20 04:03:01 +0000"
@@ -2025,6 +2045,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_redstone": "2024-12-20 04:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-20 04:53:21 +0000"
     },
     "done": true
   },
@@ -2043,6 +2069,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-20 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-12-20 04:49:02 +0000"
     },
     "done": true
   },
@@ -2160,6 +2192,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-20 04:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-20 04:07:32 +0000"
@@ -2244,6 +2282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-20 04:53:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2024-12-20 04:08:01 +0000"
@@ -2295,6 +2339,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-20 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-12-20 04:49:02 +0000"
     },
     "done": true
   },
@@ -2471,6 +2521,12 @@
       "has_dark_oak_planks": "2024-12-20 04:02:30 +0000"
     },
     "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2024-12-20 04:51:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {

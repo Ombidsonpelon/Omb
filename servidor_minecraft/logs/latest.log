@@ -1557,3 +1557,8 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Dec2024 04:19:23.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [20Dec2024 04:22:19.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/network/SendCustomParticlesPacket$EventType
 [20Dec2024 04:24:21.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[20Dec2024 04:41:25.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[20Dec2024 04:43:31.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts was slain by Zombie
+[20Dec2024 04:48:25.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts hit the ground too hard
+[20Dec2024 04:51:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts hit the ground too hard
+[20Dec2024 04:53:13.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OmbHearts was slain by Zombie
