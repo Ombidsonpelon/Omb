@@ -1549,3 +1549,11 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [20Dec2024 03:59:45.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OmbHearts: Set own game mode to Survival Mode]
 [20Dec2024 04:00:49.454] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/SurfaceRuleManager$RuleCategory
 [20Dec2024 04:00:49.456] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting terrablender/api/SurfaceRuleManager$RuleStage
+[20Dec2024 04:08:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DacSeed> lag
+[20Dec2024 04:08:57.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmbHearts> botas
+[20Dec2024 04:08:57.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OmbHearts> aca
+[20Dec2024 04:09:47.018] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[20Dec2024 04:09:53.068] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[20Dec2024 04:19:23.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[20Dec2024 04:22:19.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/network/SendCustomParticlesPacket$EventType
+[20Dec2024 04:24:21.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
